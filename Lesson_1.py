@@ -44,5 +44,8 @@ v_list = [1, 2, 3, 'smells like...']
 v_list2 = [10, 20, 30, 'OHH MYY']
 #print(v_list)
 #print(v_list2)
-v_list2.append('PROGRAMMER=)')
+b = ['PROGRAMMER=)']
+v_list2.append(v_list)
+
+#v_list2.append('PROGRAMMER=)')
 print(v_list2)
