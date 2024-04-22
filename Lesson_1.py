@@ -1,7 +1,7 @@
 
 
 
-v_int = 6.1567868
+v_int = 6
 print(v_int)
 
 v_string = '?'
