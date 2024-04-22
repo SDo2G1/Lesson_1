@@ -26,11 +26,23 @@ v_string = 'первый урок усвоен'
 print(v_string)
 
 
-#ещё один вариант округления числа, мне больше нравиться
+#ещё один вариант округления числа, который мне больше нравиться
 
-num4 = 7.1
+num4 = 7.51
 
 value = round(num4)
 
 print( 'type : ',type(value).__name__)
 print("the result using round : ",value)
+
+
+
+#массивы данных...начало
+
+v_list = list()
+v_list = [1, 2, 3, 'smells like...']
+v_list2 = [10, 20, 30, 'OHH MYY']
+#print(v_list)
+#print(v_list2)
+v_list2.append('PROGRAMMER')
+print(v_list2)
