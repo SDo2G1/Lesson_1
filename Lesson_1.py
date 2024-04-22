@@ -20,6 +20,6 @@ v_int2 = v_int % v_float
 
 print(v_int2)
 
-v_string = 'я твою маму ебал нуб ебаный'
+v_string = 'первый урок усвоен'
 
 print(v_string)
